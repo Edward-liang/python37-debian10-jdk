@@ -1,4 +1,4 @@
-FROM python37-debian10:v1.0.0
+FROM geektown/python37-debian10:v1.0.0
 #Can be pulled from dockerhub project: geektown/python37-debian10:v1.0.0
 # install gcc, vim .etc. to prevent GPL license risk.
 
